@@ -1,1 +1,1 @@
-A minimalist user management app with react + springboot + mySQL
+A minimalist user management app with REACT + SPRINGBOOT + MySQL
